@@ -7,7 +7,7 @@
 <script type="text/javascript">
 var store=prompt("Enter a number");
 var num=parseInt(store);
-if(num%2=0)
+if(num%2==0)
 {
 document.write(num+"its Even");
 }
