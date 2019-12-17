@@ -1,20 +1,10 @@
-<!DOCTYPE html>
 <html>
 <head>
-<title>Alert</title>
+<title>inline styles</title>
 </head>
 <body>
-<script type="text/javascript">
-var store=prompt("Enter a number");
-var num=parseInt(store);
-if(num%2==0)
-{
-document.write(num+": Prashant soni says that its Even");
-}
-else
-{
-document.write(num+": Prashant soni says that its odd");
-}
-</script>
+<h1 style="color:blue;size:50;text-align:center;background-color;yellow">||Thank  you  so  much  for  the  wishes||</h1>
+<h2 style="color:green;size:100;text-align:center;">*CHHOTU*</h2>
 </body>
 </html>
+
