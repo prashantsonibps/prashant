@@ -9,11 +9,11 @@ var store=prompt("Enter a number");
 var num=parseInt(store);
 if(num%2==0)
 {
-document.write(num+": Prashant says that its Even");
+document.write(num+": Prashant soni says that its Even");
 }
 else
 {
-document.write(num+": Prashant says that its odd");
+document.write(num+": Prashant soni says that its odd");
 }
 </script>
 </body>
